@@ -1,5 +1,5 @@
 
-# 📈Students Performance in Exams:  EDA and  Visualization 📊
+## 📈Students Performance in Exams:  EDA and  Visualization 📊
 
 Students Performance in Exams dataset consists of the marks secured by the students in various subjects.
 
