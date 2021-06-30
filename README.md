@@ -55,5 +55,7 @@ For example;
 <hr>
 
 **Dataset Link:** [Students Performance in Exams (Kaggle)](https://www.kaggle.com/spscientist/students-performance-in-exams)
+
 **My Analysis on Kaggle:**  [Students Performance: 📈 EDA and 📊 Visualization](https://www.kaggle.com/sametardaerdogan/students-performance-eda-and-visualization)
+
 **My Kaggle Profile:** [Samet Arda Erdogan](https://www.kaggle.com/sametardaerdogan)
